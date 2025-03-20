@@ -1,4 +1,6 @@
-# 👨‍💻⭐ Desafio Star Seg - Agenda de Contatos 📚📱
+# 👨‍💻⭐ Desafio Star Seg - Agenda de Contatos 📚📱 - Encerrado 🚫
+
+> **Desafio fechado! Poderá ser reaberto novamente quando outra vaga estiver disponível**
 
 Bem-vindo ao desafio prático para a vaga de **Desenvolvedor FullStack** na Star Seg. Este desafio tem como objetivo avaliar suas habilidades técnicas e sua capacidade de desenvolver uma aplicação web completa, envolvendo tanto o frontend quanto o backend.
 
