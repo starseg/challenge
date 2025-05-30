@@ -1,4 +1,4 @@
-# 👨‍💻⭐ Desafio Star Seg - Agenda de Contatos 📚📱 - Encerrado 🚫
+# 👨‍💻⭐ Desafio Star Seg - Agenda de Contatos 📚📱 | Aberto ✔
 
 > **Desafio fechado! Poderá ser reaberto novamente quando outra vaga estiver disponível**
 
